@@ -1,0 +1,21 @@
+site_name: My Docs
+
+theme:
+  name: 'material'
+  logo:
+    icon: 'bubble_chart'
+  language: 'da'
+
+extra:
+  version: 2019
+
+extra_javascript:
+  - 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.min.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.js'
+  - 'https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js'
+  - 'javascripts/chart.js'
+
+nav:
+  - 'index.md'
+  - 'chart.md'
