@@ -15,3 +15,4 @@ dev_addr: 0.0.0.0:8000
 nav:
   - Indledning: index.md
   - Charts: chart/index.md
+  - Maps: maps/index.md
