@@ -35,10 +35,8 @@
       <meta name="generator" content="mkdocs-1.0.4, mkdocs-material-3.3.0">
     
     
-      
-        <title>Chart - My Docs</title>
-      
-    
+<title>Custom title goes here</title>
+
     
       <link rel="stylesheet" href="../assets/stylesheets/application.572ca0f0.css">
       
@@ -97,7 +95,7 @@
                 My Docs
               </span>
               <span class="md-header-nav__topic">
-                Chart
+                Charts
               </span>
             
           
@@ -168,8 +166,8 @@
 
 
   <li class="md-nav__item">
-    <a href=".." title="Welcome to MkDocs" class="md-nav__link">
-      Welcome to MkDocs
+    <a href=".." title="Indledning" class="md-nav__link">
+      Indledning
     </a>
   </li>
 
@@ -186,8 +184,8 @@
     <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
     
     
-    <a href="./" title="Chart" class="md-nav__link md-nav__link--active">
-      Chart
+    <a href="./" title="Charts" class="md-nav__link md-nav__link--active">
+      Charts
     </a>
     
   </li>
@@ -206,9 +204,50 @@
               
                 
                 
-                  <h1>Chart</h1>
+                  <h1>Charts</h1>
                 
-                <canvas id="myChart" width="400" height="400"></canvas>
+                <p>Dette er et chart.</p>
+<canvas id="myChart" width="400" height="400"></canvas>
+
+<script>
+var ctx = document.getElementById("myChart");
+var myChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+        labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
+        datasets: [{
+            label: '# of Votes',
+            data: [12, 19, 3, 5, 2, 3],
+            backgroundColor: [
+                'rgba(255, 99, 132, 0.2)',
+                'rgba(54, 162, 235, 0.2)',
+                'rgba(255, 206, 86, 0.2)',
+                'rgba(75, 192, 192, 0.2)',
+                'rgba(153, 102, 255, 0.2)',
+                'rgba(255, 159, 64, 0.2)'
+            ],
+            borderColor: [
+                'rgba(255,99,132,1)',
+                'rgba(54, 162, 235, 1)',
+                'rgba(255, 206, 86, 1)',
+                'rgba(75, 192, 192, 1)',
+                'rgba(153, 102, 255, 1)',
+                'rgba(255, 159, 64, 1)'
+            ],
+            borderWidth: 1
+        }]
+    },
+    options: {
+        scales: {
+            yAxes: [{
+                ticks: {
+                    beginAtZero:true
+                }
+            }]
+        }
+    }
+});
+</script>
                 
                   
                 
@@ -229,7 +268,7 @@
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href=".." title="Welcome to MkDocs" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href=".." title="Indledning" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -238,7 +277,7 @@
                 <span class="md-footer-nav__direction">
                   Forrige
                 </span>
-                Welcome to MkDocs
+                Indledning
               </span>
             </div>
           </a>
@@ -284,16 +323,6 @@
         
       
       <script>app.initialize({version:"1.0.4",url:{base:".."}})</script>
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.js"></script>
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.min.js"></script>
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.js"></script>
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.min.js"></script>
-      
-        <script src="../javascripts/charts,js"></script>
       
     
   </body>
