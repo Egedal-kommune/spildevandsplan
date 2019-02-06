@@ -1,5 +1,13 @@
 Indsæt kort og forklaring
 
+<style>
+#map { height: 200px; }
+</style>
+
+<script src="kort.js"></script>
+
+<script src="data.js"></script>
+
 ##==Renseanlæg i Egedal Kommune==
 
 ###==Stenløse Renseanlæg==
