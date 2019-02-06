@@ -7,6 +7,24 @@ theme:
     icon: 'bubble_chart'
   language: 'da'
 
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
 extra:
   version: 2019
 
@@ -14,5 +32,12 @@ dev_addr: 0.0.0.0:8000
 
 nav:
   - Indledning: index.md
+  - Status: status/index.md
+  - Plan: plan/index.md
+  - Regler og retningslinjer: regler_retning/index.md
+  - Vandmiljø: vandmiljo/index.md
+  - Lov og plangrundlag: lov_plan/index.md
+  - Bilag: bilag/index.md
+  - Ord- og begrebsliste: ord_og_begreb/index.md
   - Charts: chart/index.md
   - Maps: maps/index.md

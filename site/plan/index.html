@@ -106,7 +106,7 @@
                 My Docs
               </span>
               <span class="md-header-nav__topic">
-                Charts
+                Plan
               </span>
             
           
@@ -199,11 +199,18 @@
       
       
 
+  
 
-  <li class="md-nav__item">
-    <a href="../plan/" title="Plan" class="md-nav__link">
+
+  <li class="md-nav__item md-nav__item--active">
+    
+    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+    
+    
+    <a href="./" title="Plan" class="md-nav__link md-nav__link--active">
       Plan
     </a>
+    
   </li>
 
     
@@ -271,18 +278,11 @@
       
       
 
-  
 
-
-  <li class="md-nav__item md-nav__item--active">
-    
-    <input class="md-toggle md-nav__toggle" data-md-toggle="toc" type="checkbox" id="__toc">
-    
-    
-    <a href="./" title="Charts" class="md-nav__link md-nav__link--active">
+  <li class="md-nav__item">
+    <a href="../chart/" title="Charts" class="md-nav__link">
       Charts
     </a>
-    
   </li>
 
     
@@ -311,50 +311,9 @@
               
                 
                 
-                  <h1>Charts</h1>
+                  <h1>Plan</h1>
                 
-                <p>Dette er et chart.</p>
-<canvas id="myChart" width="400" height="400"></canvas>
-
-<script>
-var ctx = document.getElementById("myChart");
-var myChart = new Chart(ctx, {
-    type: 'bar',
-    data: {
-        labels: ["Red", "Blue", "Yellow", "Green", "Purple", "Orange"],
-        datasets: [{
-            label: '# of Votes',
-            data: [12, 19, 3, 5, 2, 3],
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
-            ],
-            borderColor: [
-                'rgba(255,99,132,1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)',
-                'rgba(75, 192, 192, 1)',
-                'rgba(153, 102, 255, 1)',
-                'rgba(255, 159, 64, 1)'
-            ],
-            borderWidth: 1
-        }]
-    },
-    options: {
-        scales: {
-            yAxes: [{
-                ticks: {
-                    beginAtZero:true
-                }
-            }]
-        }
-    }
-});
-</script>
+                
                 
                   
                 
@@ -375,7 +334,7 @@ var myChart = new Chart(ctx, {
     <div class="md-footer-nav">
       <nav class="md-footer-nav__inner md-grid">
         
-          <a href="../ord_og_begreb/" title="Ord- og begrebsliste" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
+          <a href="../status/" title="Status" class="md-flex md-footer-nav__link md-footer-nav__link--prev" rel="prev">
             <div class="md-flex__cell md-flex__cell--shrink">
               <i class="md-icon md-icon--arrow-back md-footer-nav__button"></i>
             </div>
@@ -384,19 +343,19 @@ var myChart = new Chart(ctx, {
                 <span class="md-footer-nav__direction">
                   Forrige
                 </span>
-                Ord- og begrebsliste
+                Status
               </span>
             </div>
           </a>
         
         
-          <a href="../maps/" title="Maps" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
+          <a href="../regler_retning/" title="Regler og retningslinjer" class="md-flex md-footer-nav__link md-footer-nav__link--next" rel="next">
             <div class="md-flex__cell md-flex__cell--stretch md-footer-nav__title">
               <span class="md-flex__ellipsis">
                 <span class="md-footer-nav__direction">
                   Næste
                 </span>
-                Maps
+                Regler og retningslinjer
               </span>
             </div>
             <div class="md-flex__cell md-flex__cell--shrink">
