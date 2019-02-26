@@ -2,7 +2,15 @@
 
 ###==Stenløse Renseanlæg==
 
-==Du kan se grønt regnskab for Stenløse Renseanlæg [her](https://drive.google.com/file/d/1-eMSo9lji-hDnwsrCDt1nb1KXGuW_5qa/view?usp=sharing)==
+![Screenshot](img/stenlose.PNG)
+
+###==Ølstykke Renseanlæg==
+
+![Screenshot](img/oelstykke.PNG)
+
+###==Slagslunde Renseanlæg==
+
+![Screenshot](img/slagslunde.PNG)
 
 ###Vedtægter for spildevandslaug
 
