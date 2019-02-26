@@ -1,12 +1,6 @@
 Indsæt kort og forklaring
 
-<style>
-#map { height: 200px; }
-</style>
-
-<script src="kort.js"></script>
-
-<script src="data.js"></script>
+<div id="minimapbody" style="width:auto; height:500px;"></div>
 
 ##==Renseanlæg i Egedal Kommune==
 
@@ -50,3 +44,8 @@ I nye byområder integreres den lokale håndtering af regnvandet i byplanlægnin
 ###Afkobling af regnvand på egen matrikel
 Du kan selv være med til at mindske oversvømmelsesrisikoen ved at etablere LAR-anlæg på din grund. Ofte kan selv simple løsninger have en stor effekt. Hvis din grund er kloakeret for regnvand, kan du ved at afkoble regnvand få tilbagebetalt en del af dit tilslutningsbidrag af Novafos. Du kan få idéer til, hvordan du kan klimatilpasse din grund her og læse mere om tilbagebetaling af tilslutningsbidraget her
 Når regnvand nedsives eller udledes til søer eller vandløb, er det vigtigt at sikre sig, at det ikke har en negativ effekt på miljøet. Ønsker du selv at nedsive regnvand på din grund eller udlede regnvand direkte til vandløb eller sø, skal du derfor huske at søge om nedsivnings- eller udledningstilladelse hos kommunen. Du finder ansøgningsskemaerne her
+
+<script type="text/javascript" src="http://infokort.egedalkommune.dk/clientapi/minimap2/mmloader.js"></script>
+<script type="text/javascript">
+      window.addEventListener('load', function(){ MiniMap.createMiniMap({mapDiv: 'minimapbody', minimapId: '48b0efc8-5c00-4b33-a73b-9fc33d9de8cc'}) });
+</script>

@@ -11,7 +11,7 @@ Nye tiltag kommer i høring, inden de bliver omfattet i planperioden. Du kan fin
 
 ###Byggemodningsprojekter i Egedal - Plan
 
-Indsæt kort
+<div id="minimapbody" style="width:auto; height:500px;"></div>
 
 ####Egedal By - Stationsområdet
 
@@ -121,7 +121,7 @@ OP: Reduktion af organisk stof og fosfor
 O: Reduktion af organisk stof
 Du kan se hvilken renseklasse din ejendom er omfattet af på kortet herunder:
 
-Indsæt kort -------
+<div id="aaben" style="width:auto; height:500px;"></div>
 
 ####==Kloakering af enkeltejendomme==
 
@@ -140,3 +140,10 @@ Da Ølstykke Renseanlæg i starten af 90'erne blev bygget, fremtidssikrede man a
 Nedlæggelsen af Stenløse Renseanlæg og byudviklingen i oplandet til Ølstykke Renseanlæg resulterer i, at anlæggets procestanke skal udbygges. Det udbyggede anlæg forventes at kunne håndtere en belastning på ca. ==40.000== PE.
 Der dannes på begge renseanlæg slam, som et restprodukt. Slammet indeholder lave koncentrationer af tungmetaller og miljøfremmede stoffer. Slammet udbringes derfor på landbrugsjord som biogødning. I forbindelse med nedlæggelsen af Stenløse Renseanlæg, skal slambehandlingen på Ølstykke Renseanlæg udvides med yderligere miniraliseringsanlæg og/eller mekanisk afvanding af biogødningen.
 
+<script type="text/javascript" src="http://infokort.egedalkommune.dk/clientapi/minimap2/mmloader.js"></script>
+<script type="text/javascript">
+      window.addEventListener('load', function(){ MiniMap.createMiniMap({mapDiv: 'minimapbody', minimapId: 'a507c417-4e82-4a51-be75-889f0c977aa0'}) });
+</script>
+<script type="text/javascript">
+      window.addEventListener('load', function(){ MiniMap.createMiniMap({mapDiv: 'aaben', minimapId: '95ab9102-881f-4d2b-aef1-783b2b52040d'}) });
+</script>

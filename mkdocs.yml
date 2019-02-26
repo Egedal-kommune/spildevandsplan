@@ -9,6 +9,7 @@ theme:
   logo:
     icon: 'bubble_chart'
   language: 'da'
+  favicon: 'img/favicon.ico'
 
 # Extensions
 markdown_extensions:
@@ -28,11 +29,12 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - admonition
 
 extra:
   version: 2019
 
-dev_addr: 0.0.0.0:8000
+dev_addr: 0.0.0.0:8088
 
 # TOC
 nav:
@@ -44,5 +46,3 @@ nav:
   - Lov og plangrundlag: lov_plan/index.md
   - Bilag: bilag/index.md
   - Ord- og begrebsliste: ord_og_begreb/index.md
-  - Charts: chart/index.md
-  - Maps: maps/index.md

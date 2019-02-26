@@ -1,5 +1,12 @@
 ## Velkommen til Egedal Kommunes Spildevandsplan
 
+!!! Høringsudkast
+    Denne spildevandsplan er i offentlig høring i perioden 28. februar 2019 til 24. april 2019.
+    Eventuelle høringssvar bedes sendes til teknik-miljo@egekom.dk senst d. 5. april 2019.
+
+    Ændringer i forhold til den nuværende spildevandsplan, er makeret ==på denne måde.==
+
+
 Vi har opdateret vores spildevandsplan med et nyt layout, digital kortvisning og endnu mere information.
 I vores bestræbelser på, at gøre det endnu nemmere for dig, er vi gået et skridt længere med den digitale spildevandsplan. Denne digitale platform gør det endnu lettere, at søge de spørgsmål du ønsker svar på. Nu er det slut med downloads af PDF'er og andre filformater. Vores spildevandsplan er bygget på begrebet "mobile first", hvilket betyder at du kan læse spildevandsplanen på alle digitale enheder, da den automatisk tilpasser læsevinduet. Den integrerede søgefunktion gør det nemmere, at finde præcis det du søger.
 Hvis du vil vide endnu mere om din ejendom, kan du besøge [mitspildevand.dk](https://mitspildevand.dk)
@@ -10,7 +17,8 @@ God læselyst.
 
 Kommunen skal i henhold til miljøbeskyttelsesloven udarbejde en spildevandsplan, som skal indeholde oplysninger om de eksisterende og planlagte forhold indenfor spildevandsområdet.
 En vedtaget spildevandsplan fastlægger rammerne for håndteringen af spildevand i kommunen. Byrådet er pligtig til at arbejde for planens gennemførelse. For borgere og virksomheder er planen en forhåndsorientering om de kommende års tiltag og initiativer på kloakområdet.
-Spildevandsplanen er juridisk grundlag for:  
+Spildevandsplanen er juridisk grundlag for:
+
 - At meddele tilslutningstilladelse for spildevand og tag- og overfladevand med eventuelle begrænsninger.
 
 - At indhente tilladelse til udledning af renset spildevand, overløbsvand og separat regnvand til vandløb, søer og kystvande.
