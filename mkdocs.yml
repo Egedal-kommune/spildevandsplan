@@ -2,6 +2,10 @@
 site_name: Egedal Kommunes Spildevandsplan
 site_author: Center for Teknik og Miljø - Egedal kommune
 
+# Repository
+repo_name: 'Egedal-kommune/spildevandsplan'
+repo_url: 'https://github.com/Egedal-kommune/spildevandsplan'
+
 # Configuration
 theme:
   name: 'material'
