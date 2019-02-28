@@ -2,7 +2,7 @@
 
 !!! Høringsudkast
     Denne spildevandsplan er i offentlig høring i perioden 28. februar 2019 til 24. april 2019.
-    Eventuelle høringssvar bedes sendes til teknik-miljo@egekom.dk senst d. 5. april 2019.
+    Eventuelle høringssvar bedes sendes til teknik-miljo@egekom.dk senst d. 25. april 2019.
 
     Ændringer i forhold til den gældende spildevandsplan, er makeret ==på denne måde.==
     
