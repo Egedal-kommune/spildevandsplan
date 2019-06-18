@@ -1,12 +1,7 @@
 ## Velkommen til Egedal Kommunes Spildevandsplan
 
-!!! Høringsudkast
-    Denne spildevandsplan er i offentlig høring i perioden 28. februar 2019 til 24. april 2019.
-    Eventuelle høringssvar bedes sendes til teknik-miljo@egekom.dk senst d. 25. april 2019.
-
-    Ændringer i forhold til den gældende spildevandsplan, er makeret ==på denne måde.==
-    
-    Du kan downloade en PDF-udgave af spildevandsplanen [her](https://drive.google.com/open?id=1Tf_OmQeVdWqMccezwx5FWbFqR1GhPcqX)
+!!! Kortvisning
+    Vi har i øjeblikke problemer med visning af det digitale kortmateriale til spildevandsplanen.
 
 
 Vi har opdateret vores spildevandsplan med et nyt layout, digital kortvisning og endnu mere information.

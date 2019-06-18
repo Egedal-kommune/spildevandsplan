@@ -1,7 +1,7 @@
 ##Vandmiljø
 
 Mennesket har gennem mange år grebet ind i vandets naturlige afstrømning ved f.eks. at dræne områder, udrette og rørlægge vandløb samt grave nye åer. Desuden tilledes der mange steder vand fra befæstede arealer og renset spildevand til både søer og vandløb.
-==Egedal Kommune er omfattet af Vandområdeplan 2015-2021 for vandområdedistrikt Sjælland. Vandplanerne er anden generation af de statslige vandplaner.==
+Egedal Kommune er omfattet af Vandområdeplan 2015-2021 for vandområdedistrikt Sjælland. Vandplanerne er anden generation af de statslige vandplaner.
 Der er fastsat mål om, at hovedparten af vandløbene og søerne i Egedal Kommune skal have et naturligt og alsidigt dyre-og planteliv. Det vurderes, at op til 60 % af de offentlige vandløb ikke lever op til målsætningen. Væsentlige årsager til den manglende målsætningsopfyldelse skønnes at være belastning med spildevand fra spredt bebyggelse i det åbne land, udvaskning af næringsstoffer fra marker og dårlige fysiske forhold i vandløbene.
 
 ###Vandløbsregulativer

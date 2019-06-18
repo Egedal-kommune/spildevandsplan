@@ -37,57 +37,57 @@ Disse områder bygger på separeringsprincippet, hvor der er én hovedkloakledni
 
 Enkelte vejstrækninger er etableret med et afløbssystem til håndtering af vejvand alene. Det er ikke tilladt at tilslutte/udlede spildevand eller tag- og overfladevand til disse anlæg.
 
-###==Ejerskab, ansvar og rettigheder==
+###Ejerskab, ansvar og rettigheder
 
-==For yderligere oplysninger om fordeling af ejerskab, ansvar og rettigheder mellem selskab, grundejer og kommune henvises til Novafos´ leveringsbestemmelser (betalingsvedtægt), som kan ses på Novafos’ hjemmeside.==
+For yderligere oplysninger om fordeling af ejerskab, ansvar og rettigheder mellem selskab, grundejer og kommune henvises til Novafos´ leveringsbestemmelser (betalingsvedtægt), som kan ses på Novafos’ hjemmeside.
 
-==Forsyningsselskabets ejerskab og ansvar
-Novafos drifter og vedligeholder afløbsledninger, bassiner, pumpestationer og renseanlæg m.m., som Novafos ejer, samt den lokale tømningsordning.==
+Forsyningsselskabets ejerskab og ansvar
+Novafos drifter og vedligeholder afløbsledninger, bassiner, pumpestationer og renseanlæg m.m., som Novafos ejer, samt den lokale tømningsordning.
 
-==Novafos er ansvarlig for, at det afløbssystem, som Novafos ejer, er dimensioneret korrekt i henhold til de normer, der var gældende på etableringstidspunktet. Der vil således opleves forskellige serviceniveauer for de enkelte afløbsledninger i forhold til ledningernes alder.==
+Novafos er ansvarlig for, at det afløbssystem, som Novafos ejer, er dimensioneret korrekt i henhold til de normer, der var gældende på etableringstidspunktet. Der vil således opleves forskellige serviceniveauer for de enkelte afløbsledninger i forhold til ledningernes alder.
 
-###==Tilslutningsret- og pligt==
+###Tilslutningsret- og pligt
 
-==Grundejers rettigheder og pligter==
+Grundejers rettigheder og pligter
 
-==Ejere af fast ejendom indenfor kloakoplande er, i henhold til Miljøbeskyttelseslovens § 28, forpligtet til at tilslutte sig et spildevandsanlæg, når forsyningen har ført en stikledning frem til skellet på ejendommen eller til et privat fælles spildevandsanlæg.==
+Ejere af fast ejendom indenfor kloakoplande er, i henhold til Miljøbeskyttelseslovens § 28, forpligtet til at tilslutte sig et spildevandsanlæg, når forsyningen har ført en stikledning frem til skellet på ejendommen eller til et privat fælles spildevandsanlæg.
 
-==Når en ejendom er beliggende indenfor et kloakopland, angivet i spildevandsplanen, har ejeren ret til at blive tilkoblet forsyningens spildevandsanlæg, når der er ført stik frem til skel.==
+Når en ejendom er beliggende indenfor et kloakopland, angivet i spildevandsplanen, har ejeren ret til at blive tilkoblet forsyningens spildevandsanlæg, når der er ført stik frem til skel.
 
-==Novafos skal sikre, at grundejer kan aflede spildevandet fra stueplan ved gravitation. Det er grundejernes eget ansvar at sørge for afledning af spildevand fra kælderen, og at sikre denne mod oversvømmelser.==
+Novafos skal sikre, at grundejer kan aflede spildevandet fra stueplan ved gravitation. Det er grundejernes eget ansvar at sørge for afledning af spildevand fra kælderen, og at sikre denne mod oversvømmelser.
 
-==Grundejere, der har ejendomme beliggende udenfor offentligt kloakerede områder, har pligt til at sørge for, at deres spildevandshåndtering på ejendommen sker i henhold til de bestemmelser, der er for spildevandshåndtering i det åbne land. Såfremt ejendommene har en renseforanstaltning, der omfatter en bundfældningstank, har ejendommene pligt til at deltage i kommunens tømningsordning.==
+Grundejere, der har ejendomme beliggende udenfor offentligt kloakerede områder, har pligt til at sørge for, at deres spildevandshåndtering på ejendommen sker i henhold til de bestemmelser, der er for spildevandshåndtering i det åbne land. Såfremt ejendommene har en renseforanstaltning, der omfatter en bundfældningstank, har ejendommene pligt til at deltage i kommunens tømningsordning.
 
-==Grundejere har pligt til at ansøge kommunen om tilladelse før der laves ændringer i ejendommens afløbsforhold, og arbejdet skal udføres af en autoriseret kloakmester. Tilladelser vil blive givet i overensstemmelse med spildevandsplanens bestemmelser. Ved nybyggeri og udvidelser, der kræver ændringer af ejendommens kloaksystem, skal afløbskoefficienten fortsat overholdes.==
+Grundejere har pligt til at ansøge kommunen om tilladelse før der laves ændringer i ejendommens afløbsforhold, og arbejdet skal udføres af en autoriseret kloakmester. Tilladelser vil blive givet i overensstemmelse med spildevandsplanens bestemmelser. Ved nybyggeri og udvidelser, der kræver ændringer af ejendommens kloaksystem, skal afløbskoefficienten fortsat overholdes.
 
-==Grundejerne har ansvar for drift og vedligehold af eget kloaksystem på egen matrikel - herunder den del af afløbsledningen, som er beliggende på ejendommen. Hvis der opstår problemer med kloakken på matriklen, er grundejeren selv ansvarlig for at kontakte og betale en kloakmester eller entreprenør, der kan løse problemerne. Det er grundejers ansvar, at afløbsnettet på matriklen er intakt, så rotter ikke kan få adgang til huset eller det fri. Grundejerne har endvidere ansvaret for drift og vedligehold af fælles-private kloaksystemer, hvis de er del af et fælles-privat spildevandslaug.==
+Grundejerne har ansvar for drift og vedligehold af eget kloaksystem på egen matrikel - herunder den del af afløbsledningen, som er beliggende på ejendommen. Hvis der opstår problemer med kloakken på matriklen, er grundejeren selv ansvarlig for at kontakte og betale en kloakmester eller entreprenør, der kan løse problemerne. Det er grundejers ansvar, at afløbsnettet på matriklen er intakt, så rotter ikke kan få adgang til huset eller det fri. Grundejerne har endvidere ansvaret for drift og vedligehold af fælles-private kloaksystemer, hvis de er del af et fælles-privat spildevandslaug.
 
-==For produktionsvirksomheder gælder særlige regler for kvaliteten af spildevand.==
+For produktionsvirksomheder gælder særlige regler for kvaliteten af spildevand.
 
-####==Udtræden, tilbagebetaling og genindtræden==
+####Udtræden, tilbagebetaling og genindtræden
 
-==Egedal Kommune er indstillet på at ophæve tilslutningspligten for regnvand for alle ejendommen i kommunen, såfremt ejeren måtte ønske det og kan redegøre for alternativ bortskaffelse af regnvandet på en måde, så kommunen kan acceptere det. Det kan være ved nedsivning eller udledning til nærliggende vandløb.==
+Egedal Kommune er indstillet på at ophæve tilslutningspligten for regnvand for alle ejendommen i kommunen, såfremt ejeren måtte ønske det og kan redegøre for alternativ bortskaffelse af regnvandet på en måde, så kommunen kan acceptere det. Det kan være ved nedsivning eller udledning til nærliggende vandløb.
 
-==Hvis en grundejer ønsker at træde ud af kloakforsyningen for regnvand og selv stå for afledningen af regnvand til lokal recipient eller ved nedsivning, skal kommunen godkende projektet på forhånd. Kommunen vurderer, om den foreslåede afledning af regnvand er teknisk og miljømæssigt forsvarlig.==
+Hvis en grundejer ønsker at træde ud af kloakforsyningen for regnvand og selv stå for afledningen af regnvand til lokal recipient eller ved nedsivning, skal kommunen godkende projektet på forhånd. Kommunen vurderer, om den foreslåede afledning af regnvand er teknisk og miljømæssigt forsvarlig.
 
-==Reglerne for udtræden af kloakforsyningen fremgår at betalingsvedtægterne for Egedal Spildevand A/S, som kan ses på Novafos’ hjemmeside. Kommunen skal ansøges om tilladelse til alternativ afledning af tag- og overfladevand, fx nedsivning og om tilladelse til udtræden af kloakfællesskabet for regnvand (i henhold til Spildevandsbekendtgørelsen § 16, stk.1).==
+Reglerne for udtræden af kloakforsyningen fremgår at betalingsvedtægterne for Egedal Spildevand A/S, som kan ses på Novafos’ hjemmeside. Kommunen skal ansøges om tilladelse til alternativ afledning af tag- og overfladevand, fx nedsivning og om tilladelse til udtræden af kloakfællesskabet for regnvand (i henhold til Spildevandsbekendtgørelsen § 16, stk.1).
 
-####==Delvis tilbagebetaling af tilslutningsbidraget==
+####Delvis tilbagebetaling af tilslutningsbidraget
 
-==Hvis en ejendom udtræder for tag- og overfladevand, har Egedal Spildevand A/S mulighed for at tilbagebetale op til 40 % af gældende standardtilslutningsbidrag, som fremgår af selskabets takstblad. Reglerne for tilbagebetaling fremgår af betalingsvedtægten.==
+Hvis en ejendom udtræder for tag- og overfladevand, har Egedal Spildevand A/S mulighed for at tilbagebetale op til 40 % af gældende standardtilslutningsbidrag, som fremgår af selskabets takstblad. Reglerne for tilbagebetaling fremgår af betalingsvedtægten.
 
-####==Genindtræden==
+####Genindtræden
 
-==Efter at en ejendom er helt eller delvist udtrådt af kloakforsyningen har ejendommen ikke længere ret eller pligt til at bortlede tag- og overfladevand til afløbssystemet. En generhvervelse af ejendommens tilslutningsret og -pligt  kræver sagsbehandling, som var der tale om nykloakering. Det vil medføre, at Spildevandsplanen skal opdateres, og at ejendommen igen skal indgå i kloakområde for regnvand. Kommunen skal enten udarbejde et tillæg til Spildevandsplanen, før genindtræden kan ske, eller medtage ejendommen i forbindelse med revision af hele Spildevandsplanen.
-Reglerne for genindtræden fremgår af betalingsvedtægten (link)==
+Efter at en ejendom er helt eller delvist udtrådt af kloakforsyningen har ejendommen ikke længere ret eller pligt til at bortlede tag- og overfladevand til afløbssystemet. En generhvervelse af ejendommens tilslutningsret og -pligt  kræver sagsbehandling, som var der tale om nykloakering. Det vil medføre, at Spildevandsplanen skal opdateres, og at ejendommen igen skal indgå i kloakområde for regnvand. Kommunen skal enten udarbejde et tillæg til Spildevandsplanen, før genindtræden kan ske, eller medtage ejendommen i forbindelse med revision af hele Spildevandsplanen.
+Reglerne for genindtræden fremgår af betalingsvedtægten (link)
 
 ###Byggemodning
 
-==Hvis en bygherre ønsker sikkerhed for efterfølgende offentlig overtagelse af et privat udført kloakanlæg, skal der inden projektering påbegyndes, være indgået en skriftlig byggemodningsaftale med Novafos A/S om udførelsen af anlægget.
+Hvis en bygherre ønsker sikkerhed for efterfølgende offentlig overtagelse af et privat udført kloakanlæg, skal der inden projektering påbegyndes, være indgået en skriftlig byggemodningsaftale med Novafos A/S om udførelsen af anlægget.
 Hvis en bygherre ønsker at spildevandsanlægget skal forblive privat (fælles-privat), skal der etableres et spildevandslaug med tilhørende vedtægter, som fastlægger grundejernes ejerskab, ansvar for vedligeholdelse og fordeling af udgifter. Spildevandslauget skal være nedsat inden anlægsarbejdet påbegyndes, hvis der på det tidspunkt er mere end en ejer involveret eller senest på det tidspunkt, hvor der sker udstykning, og der da bliver mere end en ejer af kloakanlægget.
 Vedtægter for et privat spildevandslaug skal godkendes af byrådet/kommunalbestyrelsen.
 I byggemodningsforløbet skal spørgsmål om håndtering af regnvand behandles tidligst muligt, således at de egnede løsninger kan komme i betragtning og indgå effektivt og tilfredsstillende i gennemførelse af projekterne. Ved nyanlæg og større ombygninger skal  regnvandshåndteringen være fremtidssikret med klimafremskrivning jf. afsnit om dimensionering.
-Vær opmærksom på, at der ved tilslutning til eksisterende kloak eller udledning til vandløb, kan blive stillet krav om yderligere forsinkelse på egen grund.==
+Vær opmærksom på, at der ved tilslutning til eksisterende kloak eller udledning til vandløb, kan blive stillet krav om yderligere forsinkelse på egen grund.
 
 ####Kloakeringsprincip for byudvikling
 
@@ -167,14 +167,14 @@ Afløbskoefficienten angiver, hvor stor en del af det regnvand, der falder på e
 
 Arealanvendelse | Maksimal tilladt afløbskoefficient
 ----- | ------
-==Centre, tæt bebyggelse== | ==0.80 - 1.00==
-==Tæt bebyggelse med grønne områder, industri== | ==0.60 - 0.90==
-==Åben bebyggelse== | ==0.50 - 0.60==
-==Kæde- og rækkehuse== | ==0.30 - 0.40==
-==Privat bolig, lille grund== | ==0.25 - 0.30==
-==Privat bolig, stor grund== | ==0.20 - 0.25==
-==Grønne områder== | ==0.05 - 0.15==
-==Større veje== | ==0.80==
+Centre, tæt bebyggelse | 0.80 - 1.00
+Tæt bebyggelse med grønne områder, industri | 0.60 - 0.90
+Åben bebyggelse | 0.50 - 0.60
+Kæde- og rækkehuse | 0.30 - 0.40
+Privat bolig, lille grund | 0.25 - 0.30
+Privat bolig, stor grund | 0.20 - 0.25
+Grønne områder | 0.05 - 0.15
+Større veje | 0.80
 
 Eksempel:
 Ejendommen Eksempelvej 4 har en matrikel på 1000 m2. Tagfladen på huset er på 200 m2. Derudover er der en garage på 50 m2 og en flisebelagt indkørsel på 80 m2. Alle fladerne er tilsluttet kloakken. Dette giver en samlet befæstelse på 330 m2. Omregnet til procentvis befæstelse, fås en befæstelsesgrad på 33%
@@ -185,9 +185,9 @@ Ovenstående eksempel viser at ejendommen vil udlede for meget regnvand til kloa
 
 ####Tilslutningstilladelse
 
-#####==Private grundejere==
+#####Private grundejere
 
-==Der skal efter Miljøbeskyttelseslovens § 28, stk. 3 søges om tilladelse til at tilslutte sig kloakken. Dette gælder for alle tilslutninger. Tilladelse gives af kommunen. Ændringer i afledningen af regn- og spildevand fra beboelse, f.eks. ved boligudvidelse, terrasse, befæstet areal eller opført carport, kræver revision eller ny tilslutningstilladelse.==
+Der skal efter Miljøbeskyttelseslovens § 28, stk. 3 søges om tilladelse til at tilslutte sig kloakken. Dette gælder for alle tilslutninger. Tilladelse gives af kommunen. Ændringer i afledningen af regn- og spildevand fra beboelse, f.eks. ved boligudvidelse, terrasse, befæstet areal eller opført carport, kræver revision eller ny tilslutningstilladelse.
 
 #####Virksomheder
 
@@ -253,17 +253,17 @@ spildevand der indeholder mad- og fedtrester skal afledes gennem fedtudskilleran
 - Forretninger med tilberedning af varm mad
 - Pladser og overflader, hvor der kan forekomme spild af fedt og olie
 
-####==Udledningstilladelse==
+####Udledningstilladelse
 
-==Al udledning af spildevand (herunder også overfladevand fra befæstede arealer) til recipienter (åer, søer og havet) må kun ske efter tilladelse fra kommunen. Kravet om tilladelse stilles for at sikre opfyldelse af miljømålene for de respektive recipienter og for at sikre, at den hydrauliske kapacitet i recipienten ikke overskrides, så der opstår risiko for oversvømmelser.
+Al udledning af spildevand (herunder også overfladevand fra befæstede arealer) til recipienter (åer, søer og havet) må kun ske efter tilladelse fra kommunen. Kravet om tilladelse stilles for at sikre opfyldelse af miljømålene for de respektive recipienter og for at sikre, at den hydrauliske kapacitet i recipienten ikke overskrides, så der opstår risiko for oversvømmelser.
 Ansøger skal ved ansøgning om udledningstilladelse, redegøre for eventuelle konsekvenser ved den ønskede udledning. Ansøgningen skal indeholde en redegørelse for vandstandspåvirkningen af vandløb eller sø. Dette kan typisk gøres ved hjælp af en vandspejlsberegning.
-Ligeledes skal ansøgningen redegøre for eventuel påvirkning af omgivende dyre- og planteliv.==
+Ligeledes skal ansøgningen redegøre for eventuel påvirkning af omgivende dyre- og planteliv.
 
-####==Nedsivningstilladelse==
+####Nedsivningstilladelse
 
-==Forud for etablering af et nedsivningsanlæg skal der ansøges om og meddeles en nedsivningstilladelse. Dette sker ved, at der indsendes en ansøgning sammen med en projektbeskrivelse til kommunen.
+Forud for etablering af et nedsivningsanlæg skal der ansøges om og meddeles en nedsivningstilladelse. Dette sker ved, at der indsendes en ansøgning sammen med en projektbeskrivelse til kommunen.
 Nedsivningsanlæg for spildevand skal opfylde de normer, der er for dimensionering af disse. Alle ansøgninger om nedsivningsanlæg vil blive behandlet efter Miljøbeskyttelsesloven og Spildevandsbekendtgørelsen, hvor hensynet til grundvandsbeskyttelse indgår.
-Alle tilladelser til nedsivning er ifølge Miljøbeskyttelsesloven midlertidige og kan trækkes tilbage ved evt. kloakering, eller hvis hensynet til grundvandet eller miljøbeskyttelsen i øvrigt kræver det.==
+Alle tilladelser til nedsivning er ifølge Miljøbeskyttelsesloven midlertidige og kan trækkes tilbage ved evt. kloakering, eller hvis hensynet til grundvandet eller miljøbeskyttelsen i øvrigt kræver det.
 
 ####Nyt spildevandsanlæg
 
@@ -291,34 +291,34 @@ Ansøgning om ændring af eksisterende anlæg skal indeholde:
 
 I forbindelse med kloakering i det åbne land, samt ved udvidelser og ændringer af eksisterende kloakeringsområder, kan det i vist omfang blive nødvendigt at etablere ledningsanlæg (pumpestationer, kloakledninger mm.) på private arealer. Der skal normalt ikke afgives areal til ledningsanlæg, men forsyningens kloakledninger på privat ejendom skal sikres ved en tinglyst servitut (rådighedsindskrænkning) på de enkelte matrikler. Derimod kan man forvente, at der skal afgives areal til anlæg af større pumpestationer, regnvandsbassiner mm. Grundejere, der berøres af ovennævnte, og som pålægges servitut, kontaktes skriftligt under detailprojekteringen. Det søges i videst muligt omfang at indgå frivillige aftaler mellem de berørte grundejere og forsyningsselskab. Såfremt en sådan ikke kan opnås, vil Byrådet i henhold til Miljøbeskyttelseslovens § 58 erhverve retten ved ekspropriation. Forud for en beslutning om ekspropriation afholdes en såkaldt åstedsforretning, hvortil grundejeren indkaldes med 4 ugers varsel. Efter at åstedsforretningen er foretaget, har grundejeren 3 uger til at komme med bemærkninger til de planlagte foranstaltninger. Herefter træffer Byrådet ekspropriationsbeslutningen, som sendes til de berørte grundejere. Efter modtagelse af ekspropriationsbeslutningen har grundejeren 4 uger til at sende en klage til Miljø- og fødevareklagenævnet. Klagenævnet kan ændre ekspropriationsbeslutningen. Anlægsarbejdet må ikke påbegyndes med mindre klagenævnet bestemmer andet. Når der foreligger en frivillig aftale, eller når der er foretaget ekspropriation, skal der tinglyses en deklaration på ejendommen. Deklarationen skal beskrive den erhvervelse af ejendomsret til arealer, begrænset i brugsret og/eller rådighedsindskrænkning, der er opnået med aftalen eller ekspropriationen. Dette kan eksempelvis være et deklarationsbælte omkring ledninger, et areal omkring et regnvandsbassin mv. Her kan der stilles krav om, at der ikke må bygges, beplantes eller i øvrigt iværksættes noget, der kan være til hinder for adgangen til spildevandsanlægget eller være til skade for anlægget og dets beståen. Det anlæg, der skal eksproprieres til, skal fremgå af spildevandsplanen. I spildevandsplanens kortmateriale er angivet mulige placeringer af regnvandsbassiner mv. Da projekteringer og planlægninger ikke er påbegyndt, er placeringerne heller ikke endelige. Ejendomme, der er beliggende i umiddelbar nærhed af eksempelvis planlagte regnvandsbassiner må således påregne at kunne få pålagt servitut, rådighedsindskrænkelse mv. Grundejeren vil blive kontaktet ved projektopstart.
 
-###==Deklarationer og arealerhvervelse==
+###Deklarationer og arealerhvervelse
 
-==Se ovenstående==
+Se ovenstående
 
-###==Fejltilslutning==
+###Fejltilslutning
 
-==Hvis der fra en ejendom afledes overfladevand til en spildevandsledning i et separatkloakeret område, eller spildevand til en regnvandsledning, er det grundejerens ansvar at få rettet fejl-koblingen, når han blive vidende om det, herunder at afholde udgifterne hertil.
-Kommunen kan påbyde at få ledningerne korrekt tilsluttet, hvis der foreligger dokumentation for fejltilslutningen. Det kan være i form af tv-inspektion af spildevandssystemet eller test med farvestof. Der behøver ikke at være konkret begrundet mistanke om fejltilslutning for at gennemføre undersøgelserne, der i øvrigt skal varsles.==
+Hvis der fra en ejendom afledes overfladevand til en spildevandsledning i et separatkloakeret område, eller spildevand til en regnvandsledning, er det grundejerens ansvar at få rettet fejl-koblingen, når han blive vidende om det, herunder at afholde udgifterne hertil.
+Kommunen kan påbyde at få ledningerne korrekt tilsluttet, hvis der foreligger dokumentation for fejltilslutningen. Det kan være i form af tv-inspektion af spildevandssystemet eller test med farvestof. Der behøver ikke at være konkret begrundet mistanke om fejltilslutning for at gennemføre undersøgelserne, der i øvrigt skal varsles.
 
-###==Afledning af dræn- og grundvand==
+###Afledning af dræn- og grundvand
 
-==Vand fra omfangsdræn ved kloakerede bygninger betragtes som tag- og overfladevand og skal tilføres regnvandsledningen, hvor oplandet er separatkloakeret, mens det i fælleskloakerede oplande skal tilføres fællesledningen.
-Andre typer dræn som eks. markdræn, grundvandssænkende dræn, dræn fra græsplæner og andre grønne arealer m.v. betragtes ikke som spildevand eller tag- og overfladevand, men som dræn/vandløb. Disse dræn må  som hovedregel ikke tilsluttes kloakledningerne. Drænledninger er private anlæg, der skal vedligeholdes af grundejer(ne).==
+Vand fra omfangsdræn ved kloakerede bygninger betragtes som tag- og overfladevand og skal tilføres regnvandsledningen, hvor oplandet er separatkloakeret, mens det i fælleskloakerede oplande skal tilføres fællesledningen.
+Andre typer dræn som eks. markdræn, grundvandssænkende dræn, dræn fra græsplæner og andre grønne arealer m.v. betragtes ikke som spildevand eller tag- og overfladevand, men som dræn/vandløb. Disse dræn må  som hovedregel ikke tilsluttes kloakledningerne. Drænledninger er private anlæg, der skal vedligeholdes af grundejer(ne).
 
 ###Tømningsordning
 
-==Egedal Kommune har vedtaget regulativer for obligatoriske tømningsordninger for  bundfældnings- og samletanke, der omfatter alle ejendommene i det åbne land i ukloakerede områder. Ordningen administreres af Novafos A/S.
-Ordningen gælder alle ejendomme, som har et privat renseanlæg i form af septiktank, trixtank, bundfældningstank, samletank eller lignende. Regulativerne kan ses på her.==
+Egedal Kommune har vedtaget regulativer for obligatoriske tømningsordninger for  bundfældnings- og samletanke, der omfatter alle ejendommene i det åbne land i ukloakerede områder. Ordningen administreres af Novafos A/S.
+Ordningen gælder alle ejendomme, som har et privat renseanlæg i form af septiktank, trixtank, bundfældningstank, samletank eller lignende. Regulativerne kan ses på her.
 
 - Samletanke
 - Bundfældningstanke
 
-==Det er grundejerens ansvar, at orientere Novafos, hvis der sker ændringer på ejendommen, som ændrer vandforbruget og dermed tømningsfrekvensen.
-Du kan læse mere om regler og takster m.m. for tømningsordningen på Novafos hjemmeside.==
+Det er grundejerens ansvar, at orientere Novafos, hvis der sker ændringer på ejendommen, som ændrer vandforbruget og dermed tømningsfrekvensen.
+Du kan læse mere om regler og takster m.m. for tømningsordningen på Novafos hjemmeside.
 
-###==Køkenkværne==
+###Køkenkværne
 
-==I køkkenkværne kan madaffald findeles, så det kan skylles ud i køkkenafløbet.
+I køkkenkværne kan madaffald findeles, så det kan skylles ud i køkkenafløbet.
 Egedal Kommune giver som udgangspunkt ikke tilladelse til montering og brug af køkkenkværne i afløbsinstallationer. Husholdningsaffald skal bortskaffes efter kommunens gældende husholdningsregulativ.
-Grunden til at køkkenaffaldet er uønsket i afløbssystemet er, at det øger risiko for tilstopning af systemet, og en øget svovlbrinteudvikling vil medføre korrosion af kloakken og lugtgener for personalet. Dertil kommer, at køkkenkværne gør det muligt at kværne bl.a. plastik, stanniol m.m. og dermed kan der tilføres miljøfremmede stoffer til renseanlæggene og videre til vandområderne og der kan opstå problemer med overholdelse af grænseværdierne for udbringning af spildevandsslammet på landbrugsjord.==
+Grunden til at køkkenaffaldet er uønsket i afløbssystemet er, at det øger risiko for tilstopning af systemet, og en øget svovlbrinteudvikling vil medføre korrosion af kloakken og lugtgener for personalet. Dertil kommer, at køkkenkværne gør det muligt at kværne bl.a. plastik, stanniol m.m. og dermed kan der tilføres miljøfremmede stoffer til renseanlæggene og videre til vandområderne og der kan opstå problemer med overholdelse af grænseværdierne for udbringning af spildevandsslammet på landbrugsjord.
 

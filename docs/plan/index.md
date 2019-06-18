@@ -22,39 +22,39 @@ Byggefelter, der etableres med adgang ud til grønne områder gives derfor mulig
 Vejvand fra Dam Holme håndteres i en grøn midterrabat, hvor det forsinkes inden tilslutning til vejvandsledningen i den eksisterende del af Dam Holme. Der etableres overløbs mulighed fra midterrabatten til den grønne fletning via v-profiler i bygader/kvartersgader/sivegader, i lukkede render eller ledningsført.
 For stationsområdet dimensioneres regnvandssystemet til at kunne håndtere et afløbstal på 175 l/s/ha. Dette afløbstal sætter et loft for, hvor meget regnvand de enkelte matrikler kan aflede til regnvandssystemet. Har du for eksempel en matrikel på 2300 m2, får du et maksimalt afløbstal på (175 x 0,23) 40,25 l/s.
 
-- ==Etape 1 - 2018/19==
-- ==Etape 2 - 2019/20==
+- Etape 1 - 2018/19
+- Etape 2 - 2019/20
 
-####==Egedal By - Campusområdet==
+####Egedal By - Campusområdet
 
-==Campusområdet er den sydligste del af Egedal By. Området planlægges som blandet bebyggelse og plejeboliger. Der er planlagt ca. 800 boliger i Campusområdet.
-Området er planlagt separatkloakeret, hvor spildevand ledes til Stenløse Renseanlæg og tag- og overfladevand i videst muligt omfang nedsives. Det tag- og overfladevand der ikke kan nedsives, forventes forsinket og udledt til Stenløse Å.==
+Campusområdet er den sydligste del af Egedal By. Området planlægges som blandet bebyggelse og plejeboliger. Der er planlagt ca. 800 boliger i Campusområdet.
+Området er planlagt separatkloakeret, hvor spildevand ledes til Stenløse Renseanlæg og tag- og overfladevand i videst muligt omfang nedsives. Det tag- og overfladevand der ikke kan nedsives, forventes forsinket og udledt til Stenløse Å.
 
-- ==Forventet 2020/21==
+- Forventet 2020/21
 
-####==Stenløse Syd==
+####Stenløse Syd
 
-==Områderne i Stenløse Syd er udlagt som spildevandskloakeret. Dette betyder, at tag- og overfladevand på de enkelte matrikler skal nedsives. Det er ikke tilladt at tilslutte tag- og overfladevand fra private matrikler, til vejafvandingssystemet.==
+Områderne i Stenløse Syd er udlagt som spildevandskloakeret. Dette betyder, at tag- og overfladevand på de enkelte matrikler skal nedsives. Det er ikke tilladt at tilslutte tag- og overfladevand fra private matrikler, til vejafvandingssystemet.
 
-==Spildevand ledes til Ølstykke Renseanlæg.==
+Spildevand ledes til Ølstykke Renseanlæg.
 
-==Vejafvanding ledes via bassin til Værebro Å.==
+Vejafvanding ledes via bassin til Værebro Å.
 
-- ==Storparcel 96 - 2019==
-- ==Storparcel 90 - 2019==
-- ==Barnekær - 2019==
+- Storparcel 96 - 2019
+- Storparcel 90 - 2019
+- Barnekær - 2019
 
-####==Værebro Erhvervsområde==
+####Værebro Erhvervsområde
 
-==Området er planlagt separatkloakeret.==
+Området er planlagt separatkloakeret.
 
-==Værebro Erhverv er beliggende i industriområdet Værebro i Ølstykke. Byggemodningen af Værebro Erhverv er bestående af 8 storparceller, udgørende et areal på ca. 35.430 m2 samt et vej- sti- og rabatareal på 2780 m2.
+Værebro Erhverv er beliggende i industriområdet Værebro i Ølstykke. Byggemodningen af Værebro Erhverv er bestående af 8 storparceller, udgørende et areal på ca. 35.430 m2 samt et vej- sti- og rabatareal på 2780 m2.
 Spildevand ledes via offentligt ledningsnet til Ølstykke Renseanlæg.
-I forbindelse med LAR vil overfladevandet på parceller, og på stikvejen, afledes til en separat regnvandsledning med afløb til nedsivningsbassin. Overfladevand uden for parceller ledes via terræn til bassin.==
+I forbindelse med LAR vil overfladevandet på parceller, og på stikvejen, afledes til en separat regnvandsledning med afløb til nedsivningsbassin. Overfladevand uden for parceller ledes via terræn til bassin.
 
-==Etape nord planlægges til 100 % afledning af tag- og overfladevand.==
+Etape nord planlægges til 100 % afledning af tag- og overfladevand.
 
-- ==Etape syd - byggemodning endnu ikke planlagt==
+- Etape syd - byggemodning endnu ikke planlagt
 
 ####Dyvelåsens forlængelse
 
@@ -67,42 +67,42 @@ Terrænmodelleringen og den naturlige gravitation sikrer, at vandet ledes mod de
 Der etableres et regnvandslaug til håndtering af LAR-anlæggene. Du kan læse vedtægterne for regnvandslauget i bilagene.
 Hver enkelt matrikel skal ligeledes så vidt muligt håndtere regnvand på egen grund.
 
-####==Smørum Vest==
+####Smørum Vest
 
-==Området planlægges separatkloakeret.==
+Området planlægges separatkloakeret.
 
-==Spildevand ledes til Måløv Renseanlæg og tag- og overfladevand udledes til nærliggende vandløb - Tunbækken. Afløbstal for de enkelte matrikler og udledning af overfladevand til Tunbækken afhænger af områdets nedsivningspotentiale, samt eventuelle krav i en udledningstilladelse.==
+Spildevand ledes til Måløv Renseanlæg og tag- og overfladevand udledes til nærliggende vandløb - Tunbækken. Afløbstal for de enkelte matrikler og udledning af overfladevand til Tunbækken afhænger af områdets nedsivningspotentiale, samt eventuelle krav i en udledningstilladelse.
 
-####==Kong Svends Park 1==
+####Kong Svends Park 1
 
-- ==Modning af grunde i takt med salg==
+- Modning af grunde i takt med salg
 
-####==Kong Svends Park 2==
+####Kong Svends Park 2
 
-- ==Forventet 2020/21==
+- Forventet 2020/21
 
-###==Byggemodningsprojekter i Egedal - Perspektiv==
+###Byggemodningsprojekter i Egedal - Perspektiv
 
-####==Egedal By - Landskabsbyen==
+####Egedal By - Landskabsbyen
 
-- ==Første del fra 2024==
-- ==Anden del - tidligst 2025==
+- Første del fra 2024
+- Anden del - tidligst 2025
 
-####==Stenløse Syd==
+####Stenløse Syd
 
-- ==Etape 5 - endnu ikke fastlagt==
+- Etape 5 - endnu ikke fastlagt
 
-####==Værebro Erhvervsområde==
+####Værebro Erhvervsområde
 
-- ==Etape Syd - endnu ikke fastlagt==
+- Etape Syd - endnu ikke fastlagt
 
-####==Fremtidige projekter i henhold til kommuneplan==
+####Fremtidige projekter i henhold til kommuneplan
 
-- ==Kildedal Ferie- og Leisurecenter - tidligst 2021==
-- ==Veksø Syd - tidligst 2021==
-- ==Nordbyen - tidligst 2025==
-- ==Egedal By - Erhvervscampus - tidligst 2020==
-- ==Egedal By - Håndværkerbyen - tidligst 2025==
+- Kildedal Ferie- og Leisurecenter - tidligst 2021
+- Veksø Syd - tidligst 2021
+- Nordbyen - tidligst 2025
+- Egedal By - Erhvervscampus - tidligst 2020
+- Egedal By - Håndværkerbyen - tidligst 2025
 
 ###Plan for det åbne land
 
@@ -123,9 +123,9 @@ Du kan se hvilken renseklasse din ejendom er omfattet af på kortet herunder:
 
 <div id="aaben" style="width:auto; height:500px;"></div>
 
-####==Kloakering af enkeltejendomme==
+####Kloakering af enkeltejendomme
 
-==Der er pt. ingen planer om kloakering i det åbne land.==
+Der er pt. ingen planer om kloakering i det åbne land.
 
 ###Plan for renseanlæg
 
@@ -137,7 +137,7 @@ Mellem det nuværende Stenløse Renseanlæg og Ølstykke Renseanlæg etableres e
 Ølstykke Renseanlæg modtager primært spildevand fra Ølstykke, og udleder det rensede spildevand til Salsmosegrøften og videre til Værebro Å. Anlægget er i god stand, og ligger udenfor bebygget område. Anlægget har en stofmæssig kapacitet på ca. 18.000 PE, og belastes pt. med ca. 15.000 PE.
 I oplandet til Ølstykke Renseanlæg, herunder specielt Stenløse Syd og Egedal By, forventes en betydelig byudvikling. Denne vil resultere i, at Ølstykke Renseanlæg indenfor en årrække, skal udvides - uanset om Stenløse Renseanlæg nedlægges eller ej.
 Da Ølstykke Renseanlæg i starten af 90'erne blev bygget, fremtidssikrede man anlægget ved at forberede det til en udvidelse. Flere af tankene og bygværkerne er derfor konstrueret, så de hydraulisk kan håndtere betydeligt større spildevandsmængder ens anlægget belastes med i dag.
-Nedlæggelsen af Stenløse Renseanlæg og byudviklingen i oplandet til Ølstykke Renseanlæg resulterer i, at anlæggets procestanke skal udbygges. Det udbyggede anlæg forventes at kunne håndtere en belastning på ca. ==40.000== PE.
+Nedlæggelsen af Stenløse Renseanlæg og byudviklingen i oplandet til Ølstykke Renseanlæg resulterer i, at anlæggets procestanke skal udbygges. Det udbyggede anlæg forventes at kunne håndtere en belastning på ca. 40.000 PE.
 Der dannes på begge renseanlæg slam, som et restprodukt. Slammet indeholder lave koncentrationer af tungmetaller og miljøfremmede stoffer. Slammet udbringes derfor på landbrugsjord som biogødning. I forbindelse med nedlæggelsen af Stenløse Renseanlæg, skal slambehandlingen på Ølstykke Renseanlæg udvides med yderligere miniraliseringsanlæg og/eller mekanisk afvanding af biogødningen.
 
 <script type="text/javascript" src="http://infokort.egedalkommune.dk/clientapi/minimap2/mmloader.js"></script>

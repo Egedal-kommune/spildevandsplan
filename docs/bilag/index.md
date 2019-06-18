@@ -1,14 +1,14 @@
-##==Renseanlæg - Grønt regnskab==
+##Renseanlæg - Grønt regnskab
 
-###==Stenløse Renseanlæg==
+###Stenløse Renseanlæg
 
 ![Screenshot](img/stenlose.PNG)
 
-###==Ølstykke Renseanlæg==
+###Ølstykke Renseanlæg
 
 ![Screenshot](img/oelstykke.PNG)
 
-###==Slagslunde Renseanlæg==
+###Slagslunde Renseanlæg
 
 ![Screenshot](img/slagslunde.PNG)
 
@@ -108,49 +108,49 @@ Således vedtaget ved Regnvandslaugets stiftelse den [dato].
 
 ------
 
-####==SPILDEVANDSLAUG FOR G/F HVALSØPARKEN (STRÅMOSEKÆR)==
+####SPILDEVANDSLAUG FOR G/F HVALSØPARKEN (STRÅMOSEKÆR)
 
-==Forslag til ændring af vedtægten herunder etablering af spildevandslaug til opfyldelse af krav fra Egedal Kommune.==
+Forslag til ændring af vedtægten herunder etablering af spildevandslaug til opfyldelse af krav fra Egedal Kommune.
 
-==3A, stk.1  
-Foreningen har endvidere til at forestå funktionen som spildevandslaug, jf. bestemmelserne i stk. 2-6. I det omfang etablering af private fællesveje, interne og rekreative stier og fælles friarealer og det fælles private regnvandsanlæg ikke forestås af et lokalt forsyningsselskab forestår foreningen endvidere etablering heraf.==
+3A, stk.1  
+Foreningen har endvidere til at forestå funktionen som spildevandslaug, jf. bestemmelserne i stk. 2-6. I det omfang etablering af private fællesveje, interne og rekreative stier og fælles friarealer og det fælles private regnvandsanlæg ikke forestås af et lokalt forsyningsselskab forestår foreningen endvidere etablering heraf.
 
-==3A, stk. 2  
-Grundejerforeningen forestår funktionen som spildevandslaug, jf. bekendtgørelse nr. 1469 af 12. december 2017, og varetager i den forbindelse drift, vedligeholdelse og fornyelse af det fælles private spildevandsanlæg, jf. den til enhver tid gældende offentlig-retlige regulering af vilkår for tilslutning til det offentlige kloaksystem. Spildevandsanlægget forestår tre former for spildevand: Vej- og husspildevand, der håndteres separat i grundejerforeningen og dermed spildevandslauget. Tagspildevandet håndteres internt på den enkelte matrikel.==
+3A, stk. 2  
+Grundejerforeningen forestår funktionen som spildevandslaug, jf. bekendtgørelse nr. 1469 af 12. december 2017, og varetager i den forbindelse drift, vedligeholdelse og fornyelse af det fælles private spildevandsanlæg, jf. den til enhver tid gældende offentlig-retlige regulering af vilkår for tilslutning til det offentlige kloaksystem. Spildevandsanlægget forestår tre former for spildevand: Vej- og husspildevand, der håndteres separat i grundejerforeningen og dermed spildevandslauget. Tagspildevandet håndteres internt på den enkelte matrikel.
 
-==Spildevandslauget kan ved kvalificeret flertal, jf. § 11, overlade ledningsnettet og håndtering af husspildevand til den lokale forsyningsselskab.==
+Spildevandslauget kan ved kvalificeret flertal, jf. § 11, overlade ledningsnettet og håndtering af husspildevand til den lokale forsyningsselskab.
 
-==3A, stk. 3  
+3A, stk. 3  
 Grundejerforeningen er forpligtet til at modtage tag- og overfladevand fra alle
 ejendomme inden for foreningens område samt ejendomme, der udstykkes herfra. Sker
 der udstykning af ejendomme i området med eget regnvandsanlæg, er foreningen
-berettiget men ikke forpligtet til ved påkrav at overtage sådanne anlæg, der skal etableres ved udstykningen af den pågældende ejer.==
+berettiget men ikke forpligtet til ved påkrav at overtage sådanne anlæg, der skal etableres ved udstykningen af den pågældende ejer.
 
-==3A, stk. 4  
+3A, stk. 4  
 Grundejerforeningen er berettiget til at foretage nødvendige reparationer til
 enhver tid, og er i den forbindelse berettiget til i nødvendigt omfang at færdes på private
-grunde i området. Foreningen er berettiget til at påbyde udbedring af forhold, der efter foreningens skøn er egnet til at hindre vandets frie løb i regnvandsrenderne.==
+grunde i området. Foreningen er berettiget til at påbyde udbedring af forhold, der efter foreningens skøn er egnet til at hindre vandets frie løb i regnvandsrenderne.
 
-==Efterkommes påbud ikke inden for en rimelig frist, der fastsættes af foreningen, er
-foreningen beføjet til at udføre arbejdet på grundejerens regning.==
+Efterkommes påbud ikke inden for en rimelig frist, der fastsættes af foreningen, er
+foreningen beføjet til at udføre arbejdet på grundejerens regning.
 
-==3A, stk. 5  
+3A, stk. 5  
 Hvis en ejendom etableres på en måde, der efter grundejerforeningens skøn
-medfører en større belastning af tag- og overfladevand end forudsat ved dimensioneringen af grundejerforeningens fælles private regnvandssystem, kan foreningen påbyde ejeren af den pågældende grund at etablere et forsinkelsesanlæg.==
+medfører en større belastning af tag- og overfladevand end forudsat ved dimensioneringen af grundejerforeningens fælles private regnvandssystem, kan foreningen påbyde ejeren af den pågældende grund at etablere et forsinkelsesanlæg.
 
-==3A, stk. 6  
-Tvist om fordeling af udgifter til de i § 3A omhandlede udgifter til regnvandshåndtering afgøres af kommunen efter reglerne om betaling for spildevandsforsyningsselskaber.==
+3A, stk. 6  
+Tvist om fordeling af udgifter til de i § 3A omhandlede udgifter til regnvandshåndtering afgøres af kommunen efter reglerne om betaling for spildevandsforsyningsselskaber.
 
-==Ændringen har hjemmel i købsaftalens pkt. 11.2. Det er således forudsat, at der er givet fuldmagt til sælger, Hvalsø Holding A/S, såfremt der ikke gives møde.==
+Ændringen har hjemmel i købsaftalens pkt. 11.2. Det er således forudsat, at der er givet fuldmagt til sælger, Hvalsø Holding A/S, såfremt der ikke gives møde.
 
-==Forslaget kan vedtages med forbehold for kommunens godkendelse, og der gives ved vedtagelsen advokat Kim Krarup fuldmagt til at lade den vedtagne ændring tinglyse, ligesom der gives advokat Kim Krarup fuldmagt til at ændre vedtægten i overensstemmelse med de krav, som kommunen måtte stille.==
+Forslaget kan vedtages med forbehold for kommunens godkendelse, og der gives ved vedtagelsen advokat Kim Krarup fuldmagt til at lade den vedtagne ændring tinglyse, ligesom der gives advokat Kim Krarup fuldmagt til at ændre vedtægten i overensstemmelse med de krav, som kommunen måtte stille.
 
-==Det skal bemærkes, at forslaget er en del af de ændringer, der kræves i henhold til de individuelle købsaftaler, og der ligger således en pligt til at stemme for.==
+Det skal bemærkes, at forslaget er en del af de ændringer, der kræves i henhold til de individuelle købsaftaler, og der ligger således en pligt til at stemme for.
 
-==3. Forslag om ændring af navn fra G/F Hvalsøparken til G/F Stråmosekær.==
+3. Forslag om ændring af navn fra G/F Hvalsøparken til G/F Stråmosekær.
 
-==4. Valg af bestyrelse==
+4. Valg af bestyrelse
 
-==I forbindelse med frasalget af mere end halvdelen stiller den nuværende bestyrelse sit  mandat til rådighed, hvorfor der skal vælges ny bestyrelse, idet den nuværende bestyrelse ikke genopstiller.==
+I forbindelse med frasalget af mere end halvdelen stiller den nuværende bestyrelse sit  mandat til rådighed, hvorfor der skal vælges ny bestyrelse, idet den nuværende bestyrelse ikke genopstiller.
 
-==På bestyrelsens og sælgers vegne==
+På bestyrelsens og sælgers vegne

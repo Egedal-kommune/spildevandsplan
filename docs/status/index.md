@@ -2,34 +2,34 @@ Indsæt kort og forklaring
 
 <div id="minimapbody" style="width:auto; height:500px;"></div>
 
-##==Renseanlæg i Egedal Kommune==
+##Renseanlæg i Egedal Kommune
 
-###==Stenløse Renseanlæg==
-==Stenløse Renseanlæg er et mekanisk biologisk kemisk renseanlæg med kvælstof- og fosforfjernelse. Spildevandet efterbehandles i 3 laguner. Det rensede spildevand udledes i Stenløse Å. Anlæggets kapacitet er 16.000 PE.
+###Stenløse Renseanlæg
+Stenløse Renseanlæg er et mekanisk biologisk kemisk renseanlæg med kvælstof- og fosforfjernelse. Spildevandet efterbehandles i 3 laguner. Det rensede spildevand udledes i Stenløse Å. Anlæggets kapacitet er 16.000 PE.
 Langt størstedelen af oplandet til Stenløse Renseanlæg er separatkloakeret, dog kommer der vand fra de fælleskloakerede områder i Ganløse og Veksø til renseanlægget.
 Slam fra Slagslunde Renseanlæg køres til Stenløse Renseanlægs slambehandlingsanlæg.
-Stenløse Renseanlæg planlægges nedlagt. Læs eventuelt mere herom i planafsnittet.==
+Stenløse Renseanlæg planlægges nedlagt. Læs eventuelt mere herom i planafsnittet.
 
-###==Ølstykke Renseanlæg==
-==Ølstykke Renseanlæg er et mekanisk biologisk kemisk renseanlæg med kvælstof- og fosforfjernelse. Det rensede spildevand udledes i Salsmosegrøften og videre til Værebro Å.
+###Ølstykke Renseanlæg
+Ølstykke Renseanlæg er et mekanisk biologisk kemisk renseanlæg med kvælstof- og fosforfjernelse. Det rensede spildevand udledes i Salsmosegrøften og videre til Værebro Å.
 Anlæggets kapacitet er 18.000 PE.
 En del af oplandet til Ølstykke Renseanlæg er fælleskloakeret, og ved store regnhændelser sker der aflastning herfra. Der er etableret 1775 m3 bassinvolumen til det aflastede vand, og når mængden overstiger dette, sker der aflastning til Salsmosegrøften.
-Ølstykke Renseanlæg planlægges udvidet, idet renseanlægget i fremtiden også skal håndtere spildevandet fra Stenløse Renseanlæg. Læs eventuelt mere herom i planafsnittet.==
+Ølstykke Renseanlæg planlægges udvidet, idet renseanlægget i fremtiden også skal håndtere spildevandet fra Stenløse Renseanlæg. Læs eventuelt mere herom i planafsnittet.
 
-###==Slagslunde Renseanlæg==
-==Slagslunde Renseanlæg er et mekanisk biologisk kemisk renseanlæg med kvælstof- og fosforfjernelse.
+###Slagslunde Renseanlæg
+Slagslunde Renseanlæg er et mekanisk biologisk kemisk renseanlæg med kvælstof- og fosforfjernelse.
 Det rensede spildevand udledes til Kloddemoseløbet. Renseanlægget har en kapacitet på 2400 PE. Store dele af anlægget er i 2017 blevet renoveret. 
-Slam fra Slagslunde Renseanlæg køres til Stenløse Renseanlæg.==
+Slam fra Slagslunde Renseanlæg køres til Stenløse Renseanlæg.
 
-###==Slamhåndtering==
-==På alle renseanlæg dannes der biologisk-kemisk slam. Slammet fra de 3 renseanlæg i Egedal Kommune er af så god kvalitet, at det opfylder affald-til-jord bekendtgørelsens krav til A-slam, også kaldet biogødning. Biogødningen er rig på kulstof og næringssalte og udbringes derfor på landbrugsjord som jordforbedringmiddel.==
+###Slamhåndtering
+På alle renseanlæg dannes der biologisk-kemisk slam. Slammet fra de 3 renseanlæg i Egedal Kommune er af så god kvalitet, at det opfylder affald-til-jord bekendtgørelsens krav til A-slam, også kaldet biogødning. Biogødningen er rig på kulstof og næringssalte og udbringes derfor på landbrugsjord som jordforbedringmiddel.
 
-###==Data for renseanlæggene==
-==Se eventuelt grønt regnskab for renseanlæggene i bilag.==
+###Data for renseanlæggene
+Se eventuelt grønt regnskab for renseanlæggene i bilag.
 
-###==Målø Renseanlæg==
-==Måløv Renseanlæg renser spildevand fra sydlige del af Furesø Kommune, den nordvestlige del af Ballerup Kommune, den østlige del af Egedal Kommune og den nordvestlige del af Herlev Kommune. Jf. fordelingsnøglen for de fire kommuner forventes 30 % af indløbet spildevand til renseanlægget at komme fra Ballerup Kommune. Renseanlægget renser spildevandet ved en mekanisk-biologisk-kemisk proces, og er dimensioneret til en normal belastning på 60.000 PE og en maksimal belastning på 70.000 PE.
-Læs eventuelt mere om Måløv Renseanlæg i Ballerup Kommunens Spildevandsplan.==
+###Målø Renseanlæg
+Måløv Renseanlæg renser spildevand fra sydlige del af Furesø Kommune, den nordvestlige del af Ballerup Kommune, den østlige del af Egedal Kommune og den nordvestlige del af Herlev Kommune. Jf. fordelingsnøglen for de fire kommuner forventes 30 % af indløbet spildevand til renseanlægget at komme fra Ballerup Kommune. Renseanlægget renser spildevandet ved en mekanisk-biologisk-kemisk proces, og er dimensioneret til en normal belastning på 60.000 PE og en maksimal belastning på 70.000 PE.
+Læs eventuelt mere om Måløv Renseanlæg i Ballerup Kommunens Spildevandsplan.
 
 ##Klimatilpasning
 
